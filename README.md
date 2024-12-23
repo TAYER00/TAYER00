@@ -1,3 +1,5 @@
+odoo 17
+
 Hello, World! 👋
 I'm a passionate developer with expertise in databases and a love for JavaScript. I'm particularly interested in the exciting world of Hadoop technology and I'm always seeking out new challenges and experiences to expand my knowledge and skills.
 
